@@ -1,0 +1,13 @@
+C:\Users\RAJAE\Documents\VisitorEntrySystem\VisitorEntrySystem\bin\Debug\VisitorEntrySystem.exe.config
+C:\Users\RAJAE\Documents\VisitorEntrySystem\VisitorEntrySystem\bin\Debug\VisitorEntrySystem.exe
+C:\Users\RAJAE\Documents\VisitorEntrySystem\VisitorEntrySystem\bin\Debug\VisitorEntrySystem.pdb
+C:\Users\RAJAE\Documents\VisitorEntrySystem\VisitorEntrySystem\obj\Debug\VisitorEntrySystem.csprojAssemblyReference.cache
+C:\Users\RAJAE\Documents\VisitorEntrySystem\VisitorEntrySystem\obj\Debug\VisitorEntrySystem.MainFrm.resources
+C:\Users\RAJAE\Documents\VisitorEntrySystem\VisitorEntrySystem\obj\Debug\VisitorEntrySystem.Properties.Resources.resources
+C:\Users\RAJAE\Documents\VisitorEntrySystem\VisitorEntrySystem\obj\Debug\VisitorEntrySystem.Visitor_Info.resources
+C:\Users\RAJAE\Documents\VisitorEntrySystem\VisitorEntrySystem\obj\Debug\VisitorEntrySystem.csproj.GenerateResource.cache
+C:\Users\RAJAE\Documents\VisitorEntrySystem\VisitorEntrySystem\obj\Debug\VisitorEntrySystem.csproj.CoreCompileInputs.cache
+C:\Users\RAJAE\Documents\VisitorEntrySystem\VisitorEntrySystem\obj\Debug\VisitorEntrySystem.exe
+C:\Users\RAJAE\Documents\VisitorEntrySystem\VisitorEntrySystem\obj\Debug\VisitorEntrySystem.pdb
+C:\Users\RAJAE\Documents\VisitorEntrySystem\VisitorEntrySystem\obj\Debug\VisitorEntrySystem.RegistrationFrm.resources
+C:\Users\RAJAE\Documents\VisitorEntrySystem\VisitorEntrySystem\obj\Debug\VisitorEntrySystem.LoginFrm.resources

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisitorEntrySystem", "VisitorEntrySystem\VisitorEntrySystem.csproj", "{241BDA94-0D85-4495-813B-F2BC8FDC4E8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{241BDA94-0D85-4495-813B-F2BC8FDC4E8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{241BDA94-0D85-4495-813B-F2BC8FDC4E8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{241BDA94-0D85-4495-813B-F2BC8FDC4E8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{241BDA94-0D85-4495-813B-F2BC8FDC4E8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B150E078-CA16-49ED-AA80-3C720627FF16}
+	EndGlobalSection
+EndGlobal
